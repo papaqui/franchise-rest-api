@@ -1,12 +1,10 @@
 <?php
-
-/********************
- *  Custom Post Type
-********************/
 function franchise_post_types() {
     register_post_type('franchise', array(
         'rewrite'       => array('slug' => ' franchise'),
         'supports'      => array('title', 'editor', 'thumbnail'),
+        'show_ui'       => true,
+        'show_in_menu'  => true,
         'has_archive'   => true,
         'menu_position' => 5,
         'labels'        => array(
