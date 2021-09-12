@@ -2,11 +2,13 @@
 function franchise_post_types() {
     register_post_type('franchise', array(
         'rewrite'       => array('slug' => ' franchise'),
-        'supports'      => array('title', 'editor', 'thumbnail'),
+        'supports'      => array('title', 'editor', 'author', 'thumbnail', 'page-attributes', 'post_formats'),
+        'menu_position' => 5,
+        'has_archive'   => true,
+        'public'        => true,
+        'show_in_rest'  => true,
         'show_ui'       => true,
         'show_in_menu'  => true,
-        'has_archive'   => true,
-        'menu_position' => 5,
         'labels'        => array(
             'name'          => 'Franchise',
             'add_new_item'  => 'Add new franchise',
