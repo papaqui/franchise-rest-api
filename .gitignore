@@ -8,6 +8,7 @@ wp-content/*
 !wp-content/themes/
 wp-content/plugins/
 plugins/
+uploads/
 index.php
 
 # ignore node dependency directories
@@ -17,3 +18,12 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+themes/franchise-papaqui/assets/js
+themes/franchise-papaqui/assets/scss
+themes/franchise-papaqui/node_modules
+themes/franchise-papaqui/.babelrc
+themes/franchise-papaqui/gulpfile.babel.js
+themes/franchise-papaqui/package-lock.json
+themes/franchise-papaqui/package.json
+

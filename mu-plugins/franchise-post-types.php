@@ -4,7 +4,6 @@ function franchise_post_types() {
         'rewrite'       => array('slug' => ' franchise'),
         'supports'      => array('title', 'editor', 'author', 'thumbnail', 'page-attributes', 'post_formats'),
         'menu_position' => 5,
-        'has_archive'   => true,
         'public'        => true,
         'show_in_rest'  => true,
         'show_ui'       => true,
