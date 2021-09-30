@@ -19,6 +19,7 @@ node_modules/
 *.sql
 *.sqlite
 
+# My files
 themes/franchise-papaqui/assets/js
 themes/franchise-papaqui/assets/scss
 themes/franchise-papaqui/node_modules
@@ -27,3 +28,11 @@ themes/franchise-papaqui/gulpfile.babel.js
 themes/franchise-papaqui/package-lock.json
 themes/franchise-papaqui/package.json
 
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
