@@ -11,7 +11,7 @@ Excercise to create a custom Vanilla JS Load More button for WordPress Custom Po
 
 ## Compiling 🧰
 
-cmd to buildout/wp-content/themes/franchise-papaqui
+cd to buildout/wp-content/themes/franchise-papaqui
 
 * gulp styles --prod
 * gulp scripts --prod
