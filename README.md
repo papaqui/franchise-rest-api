@@ -9,6 +9,13 @@ Excercise to create a custom Vanilla JS Load More button for WordPress Custom Po
 * Gulp
 * Docker
 
+## Compiling 🧰
+
+cmd to buildout/wp-content/themes/franchise-papaqui
+
+* gulp styles --prod
+* gulp scripts --prod
+
 ## Versioning 📌
 
 I use [SemVer](http://semver.org/) for versioning. 
