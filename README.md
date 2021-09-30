@@ -1,6 +1,6 @@
 # Vanilla JS - Load More button v0.1.0
 
-_Excercise to create a custom Vanilla JS Load More button for WordPress Custom Post Types_
+Excercise to create a custom Vanilla JS Load More button for WordPress Custom Post Types
 
 ## Tools 🛠️
 
@@ -15,7 +15,7 @@ I use [SemVer](http://semver.org/) for versioning.
 
 ## Author ✒️
 
-* **Fernando Papaquia** - *Programming* - [papaqui](https://github.com/papaqui)
+* **Fernando Papaqui** - *Programming* - [Fernando Papaqui](https://github.com/papaqui)
 
 ---
-⌨️ Made in Mexico by [papaqui](https://github.com/papaqui) 🌵
+Made in Mexico by [Fernando Papaqui](https://github.com/papaqui) 🌵
